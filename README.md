@@ -1,7 +1,7 @@
 # WEarable seNsors unDer Shoes (WENDS)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-WENDS is an open hardware and open software project created to monitoring temporal gait phases. Several solutions can be found in the market for monitoring temporal gait phases. However, they are expensive and impose location restrictions and/or major shoe modifications. In this project, three major requirements have been identified to solve these restrictions: 
+WENDS is an open hardware and open software project created to monitoring temporal gait phases. Several solutions can be found in the market for monitoring temporal gait phases. However, they are expensive or impose location restrictions and/or major shoe modifications. In this project, three major requirements have been identified to solve these restrictions: 
 
 1.- The solution should work on different shoe sizes with minimum modifications (insoles or in-built solutions are discarded).
 
