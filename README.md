@@ -9,7 +9,7 @@ WENDS is an open hardware and open software project created to monitoring tempor
 
 3.- Cheap and easy to replicate! The sensors should be affordable in order to reduce the cost and to increase the number of end users.
 
-To achieve these requirements, we have created a flexible and adjustable structure that attaches to the outsole front and back parts as figure 1 shows (req. 1). Static Dissipative foam was been used between two filaflex plastic covers to create a cheap and durable pressure sensors (req. 2,3). [Aconno ACN52832](https://aconno.de/products/acn52832/) board has been used to syncronize both shoes under 10 ms by using an external mobile Andriod phone (BLE) (req. 2).
+To achieve these requirements, we have created a flexible and adjustable structure that attaches to the outsole front and back parts as figure 1 shows (req. 1). Static Dissipative foam is used between two filaflex plastic covers to create a cheap and durable pressure sensors (req. 2,3). [Aconno ACN52832](https://aconno.de/products/acn52832/) board has been used to syncronize both shoes under 10 ms by using an external mobile Andriod phone (BLE) (req. 2).
 
 ![Figure 1. WENDS parts: (1) ](images/schema.png)
 
